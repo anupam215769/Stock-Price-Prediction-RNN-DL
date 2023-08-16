@@ -92,14 +92,4 @@ Error back-flow problems are overcome by an efficient, gradient-based algorithm 
 
 - **Guessing:** This stochastic approach can outperform many term lag algorithms. It has been established that many long-time lag tasks used in previous work can be solved more    quickly by simple random weight guessing than by the proposed algorithms.
 
-## Credit
 
-**Coded By**
-
-[Anupam Verma](https://github.com/anupam215769)
-
-<a href="https://github.com/anupam215769/Stock-Price-Prediction-RNN-DL/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=anupam215769/Stock-Price-Prediction-RNN-DL" />
-</a>
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupam-verma-383855223/)
